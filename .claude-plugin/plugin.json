@@ -1,0 +1,6 @@
+{
+  "name": "matrix-dashboard",
+  "version": "0.1.0",
+  "description": "A Matrix look for the Claude desktop app: phosphor-green colors, digital rain behind the chat, and a live session dashboard pane. /matrix opens the dashboard.",
+  "types": "./types/index.d.ts"
+}

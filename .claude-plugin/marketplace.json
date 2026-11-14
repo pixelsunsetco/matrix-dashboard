@@ -1,0 +1,5 @@
+{
+  "name": "matrix-dashboard",
+  "owner": { "name": "pixelsunsetco" },
+  "plugins": [{ "name": "matrix-dashboard", "source": "./" }]
+}
